@@ -1,0 +1,5 @@
+{
+  "name": "3D Animated Logo Showcase",
+  "description": "A visually stunning 3D website featuring a realistic, animated logo with a custom loading screen experience, built with React, Three.js, and Tailwind CSS.",
+  "requestFramePermissions": []
+}
